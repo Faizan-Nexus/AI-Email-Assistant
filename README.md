@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# 📧 AI-Powered Email Assistant
+# AI-Powered Email Assistant
 
-> **Free AI API** · Groq (Llama 3.3 70B) · Flask · No cost
 
-A beautiful, full-featured web app that generates professional email drafts instantly using the **Groq API** — completely free, no credit card required.
+A beautiful, full-featured web app that generates professional email drafts instantly using the **Groq API**.
 
 ---
 
@@ -97,19 +95,4 @@ If you want to switch APIs:
 
 ---
 
-##  API Costs
-
-| API | Cost |
-|---|---|
-| Groq (Llama 3.3 70B) | **$0.00** — Free tier |
-| OpenAI GPT-4o | ~$0.01–0.05 per email |
-
-**Groq is 100% free** with rate limits that are more than enough for personal use (14,400 requests/day on free tier).
-
----
-
 *Built with ❤️ using Flask + Groq API*
-=======
-# AI-Email-Assistant
-A beautiful, full-featured web app that generates professional email drafts instantly.
->>>>>>> a114446a3512019d2474cc471d4048ebea4b41c1
