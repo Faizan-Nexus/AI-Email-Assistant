@@ -95,15 +95,4 @@ If you want to switch APIs:
 
 ---
 
-##  API Costs
-
-| API | Cost |
-|---|---|
-| Groq (Llama 3.3 70B) | **$0.00** — Free tier |
-| OpenAI GPT-4o | ~$0.01–0.05 per email |
-
-**Groq is 100% free** with rate limits that are more than enough for personal use (14,400 requests/day on free tier).
-
----
-
 *Built with ❤️ using Flask + Groq API*
